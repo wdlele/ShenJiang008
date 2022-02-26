@@ -5,5 +5,9 @@ package COM.Wdlele.Sj001;
  * @create 2022-02-27 1:38
  */
 public class Test2 {
+    String name;
+    int age;
+
+
 
 }
