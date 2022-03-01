@@ -7,6 +7,7 @@ package COM.Wdlele.Sj001;
 public class Test2 {
     String name;
     int age;
+    String adress;
 
 
 
